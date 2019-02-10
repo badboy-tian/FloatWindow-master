@@ -29,4 +29,6 @@ public interface IFloatWindow {
     void updateY(@Screen.screenType int screenType, float ratio);
 
     void dismiss();
+
+    View getView();
 }

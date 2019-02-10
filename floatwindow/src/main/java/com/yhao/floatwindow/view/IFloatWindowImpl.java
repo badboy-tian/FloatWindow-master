@@ -111,6 +111,12 @@ public class IFloatWindowImpl implements IFloatWindow, LifecycleListener {
     }
 
     @Override
+    public View getView() {
+        mSlop = ViewConfiguration.get(mBuildFloatWindow.mApplicationContext).getScaledTouchSlop();
+        return mBuildFloatWindow.mView;
+    }
+
+    @Override
     public void updateX(int x) {
         checkMoveType();
         mBuildFloatWindow.xOffset = x;
