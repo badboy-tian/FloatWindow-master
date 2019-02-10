@@ -1,6 +1,6 @@
 # FloatWindow 安卓任意界面悬浮窗(原项目地址如下：https://github.com/yhaolpz/FloatWindow)
 
-[![](https://jitpack.io/v/yhaolpz/FloatWindow.svg)](https://jitpack.io/#yhaolpz/FloatWindow)
+[![](https://jitpack.io/v/badboy-tian/FloatWindow-master.svg)](https://jitpack.io/#badboy-tian/FloatWindow-master)
 
 ![悬浮按钮图](https://raw.githubusercontent.com/yhaolpz/FixedFloatWindow/master/slide.gif)
 
